@@ -7,7 +7,7 @@
 }
 
 header {
-	font-size: 40px;
+	font-size: 50px;
 	font-weight: 700;
 	color: #000;
 	display: block;
@@ -73,7 +73,7 @@ body{
 }
 
 .container .box .dream img {
-	width: 100%;
+	width: 96%;
 	padding-bottom: 15px;
 	border-radius: 5px;
 }
@@ -86,7 +86,8 @@ body{
 
 
 
-
+/*<img src="IMG_6802.jpg">
+<img src="IMG_6812.jpg">
 
 
 /*.image-box {
